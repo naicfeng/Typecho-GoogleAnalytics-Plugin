@@ -5,7 +5,7 @@
  * @package GoogleAnalytics
  * @author WeiCN
  * @version 1.0.0
- * @link https://cuojue.org/read/typecho_plugin_googleanalytics.html
+ * @link https://cuojue.org/read/typecho_plugin_ga.html
  */
  class GoogleAnalytics_Plugin implements Typecho_Plugin_Interface
  {
