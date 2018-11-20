@@ -10,3 +10,8 @@
 ga(window,document,navigator,location);
 ```
 即可统计全站
+
+----
+> GA PHP代码来自 [Google-Analytics-Async](https://github.com/stneng/Google-Analytics-Async)
+
+> 异步代码来自 [CommentToMail](https://github.com/visamz/CommentToMail)
